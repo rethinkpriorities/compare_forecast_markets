@@ -1,0 +1,6 @@
+ergo
+matplotlib
+numpy
+pandas
+scipy
+urllib3
